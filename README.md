@@ -54,7 +54,7 @@ CREATE TABLE LOTOFACIL(
 
     Depois de executado o código no SQL você pode então executar o código em python no jupyter ou na extensão dele no VSCODE.
 
-    ### Código Python
+##### Código Python
 
     pip install pandas pyodbc
 
