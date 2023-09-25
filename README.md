@@ -1,4 +1,6 @@
 # PotatoCore
+O Desafio consiste na importação de um banco de dados em excel com as informações sobre Lotofacil, o objetivo é extrair e tratar o arquivo pelo python e criar um sistema de banco de dados para armazenar os dados transformados.
+
 ## Instalação
 
 
