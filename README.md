@@ -56,7 +56,8 @@ CREATE TABLE LOTOFACIL(
 	Mês_do_Sorteio INT,
 	Dia_do_Sorteio INT)
 
-    ### Depois de executado o código no SQL você pode então executar o código em python no jupyter ou na extensão dele no VSCODE. Os arquivos tanto da tabela em excel quanto do código criado em python estão anexados no repositório.
+    ### Depois de executado o código no SQL você pode então executar o código em python no jupyter ou na extensão dele no VSCODE. 
+    Os arquivos tanto da tabela em excel quanto do código criado em python estão anexados no repositório.
 
 
 
